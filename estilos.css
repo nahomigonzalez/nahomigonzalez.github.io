@@ -1,0 +1,32 @@
+body
+    {
+        background-image: url("./fotos/logo.jpg") ;
+        background-position: center bottom ;
+        background-size: 90% auto ;
+        background-repeat: no-repeat ;
+    }
+.container #principal1
+    {
+        background: white ;
+        margin-top: 90px ;
+    }
+.container #principal2
+    {
+        background: grey ;
+    }
+#tablaCustom table, #tablaCustom th, #tablaCustom td
+    {
+        border: 5px solid ;
+        width: 100% ;
+        background: #FAE453 ;
+        font-size: 15px ;
+        font-family: monospace ;
+        text-align: center ;
+    }
+#tablaCustom thead,#tablaCustom tr, #tablaCustom th 
+    {
+        background: #3b83bd ;
+        font-family: cursive ;
+        font-size: 30px ;
+        text-align:left ;
+    }
