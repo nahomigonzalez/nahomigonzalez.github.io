@@ -4,8 +4,8 @@ _Para los amigos ucranianos_
 
 Project Manager: Nahomi
 
-Como faremos:
 > Arriba á esquerda onde pon eso de Issues é onde podedes charlar. Deixade opinións do que facedes ou ideas para mellorar.
+
 > Como traballar neste repositorio:
 
 1. Facede un fork deste repositorio  dende a vosa conta de GitHub
@@ -15,3 +15,5 @@ Como faremos:
 1. Subides ese _.html_ ao repositorio na vosa conta de GitHub.
 1. Á esquerda arriba clic en Pull Request para enviarllo á Project Manager.
 1. Ela será a que decida se o teu _.html_ se publica ou non ;-)
+
+> Arriba á esquerda onde pon eso de Issues é onde podedes charlar. Deixade opinións do que facedes ou ideas para mellorar.
