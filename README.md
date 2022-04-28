@@ -1,6 +1,4 @@
-# nahomigonzalez.github.io
-
-Para los amigos ucranianos
+_Para los amigos ucranianos_
 
 # Benvidos a este proxecto de voluntariado informático
 
