@@ -1,3 +1,5 @@
-# nahomigonzalez.github.io
+_Para los amigos ucranianos_
 
-Para los amigos ucranianos
+# Benvidos a este proxecto de voluntariado informático
+
+Project Manager: Nahomi
